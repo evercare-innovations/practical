@@ -30,7 +30,9 @@ export default function Home() {
           <li className="mb-2">
             This is Matthew Branch, Do not touch
           </li>
-          <li className="mb-2">Simeon the drug lord</li>
+          <li className="mb-2">
+            This is Jude Branch, Dont run
+          </li>
         </ol>
       </main>
     </div>
