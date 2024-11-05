@@ -17,7 +17,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            This is Aloye Branch, Do not Run. You are in a land mine
+            This is Aloye Branch, Do not Run.
           </li>
         </ol>
       </main>
